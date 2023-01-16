@@ -15,5 +15,5 @@ def sum_array(a):
     return sum(a)
 
 
-array = []
+array = [1,2,-3,4]
 print(sum_array(array))
