@@ -6,3 +6,4 @@ if __name__ == "__main__":
             print(number+1, end='')
     else:
         print("Constraint Failed")
+        
